@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77041527-0957-4d3c-bfd9-2eb42dc85932" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/input.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/input.pdf" afterDir="false" />
+    <list default="true" id="77041527-0957-4d3c-bfd9-2eb42dc85932" name="Changes" comment="Prueba de documento scaneado ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/output_signed.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/output_signed.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,10 +80,26 @@
       <workItem from="1718040579389" duration="1578000" />
       <workItem from="1718058166024" duration="4427000" />
       <workItem from="1718176569144" duration="201000" />
+      <workItem from="1718176775132" duration="68000" />
+      <workItem from="1718208808826" duration="77000" />
+      <workItem from="1718225763930" duration="3541000" />
     </task>
+    <task id="LOCAL-00001" summary="Prueba de documento scaneado ok">
+      <option name="closed" value="true" />
+      <created>1718176816081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718176816082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prueba de documento scaneado ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prueba de documento scaneado ok" />
   </component>
 </project>
